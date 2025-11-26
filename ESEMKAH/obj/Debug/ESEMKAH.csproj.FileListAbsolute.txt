@@ -1,0 +1,12 @@
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\bin\Debug\ESEMKAH.exe.config
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\bin\Debug\ESEMKAH.exe
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\bin\Debug\ESEMKAH.pdb
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\obj\Debug\ESEMKAH.csproj.AssemblyReference.cache
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\obj\Debug\ESEMKAH.Properties.Resources.resources
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\obj\Debug\ESEMKAH.csproj.GenerateResource.cache
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\obj\Debug\ESEMKAH.csproj.CoreCompileInputs.cache
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\obj\Debug\ESEMKAH.exe
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\obj\Debug\ESEMKAH.pdb
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\obj\Debug\ESEMKAH.exe.config
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\obj\Debug\ESEMKAH.FormEmployee.resources
+C:\Users\reind\source\repos\Justslugard\RenJmebut\ESEMKAH\obj\Debug\ESEMKAH.FormService.resources
